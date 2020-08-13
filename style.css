@@ -262,10 +262,10 @@ img {
 
 /* DEKSTOP VERSION */
 @media (min-width: 992px) {
+
 	.sticky-top {
-		background-color: white;
 		opacity: 0.9;
-		height: 55px;
+		height: 40px;
 	}
 
 	.navbar-nav {
